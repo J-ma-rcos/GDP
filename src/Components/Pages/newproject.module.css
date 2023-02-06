@@ -1,0 +1,18 @@
+.newproject_container{
+    width:450px;
+    margin: 0 auto;
+    padding: 3em; 
+    box-shadow: 8px 10px 15px 0px rgba(65, 31, 45, 0.36);
+-webkit-box-shadow: 8px 10px 15px 0px rgba(65, 31, 45, 0.36);
+-moz-box-shadow: 8px 10px 15px 0px rgba(65, 31, 45, 0.36);
+}
+
+.newproject_container h1{
+    margin-bottom:0.5em;
+    margin-left: 60px;
+    letter-spacing:1px;
+}
+
+.newproject_container p{
+    color:#7b7b7b;
+}

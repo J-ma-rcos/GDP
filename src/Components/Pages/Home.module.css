@@ -1,0 +1,33 @@
+.home_container{
+    width:100%;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    padding:4em;
+    background-image: linear-gradient(to top left , #411f2d , #ffe29a);
+}
+.home_container h1{
+    font-size: 2.5em;
+    margim-bottom:0.5em;
+    padding-bottom:0.5em;
+}
+
+.home_container h1 span{
+    color: #ffe29a ;
+    padding: 0 0.2em;
+    background-color: #411f2d;
+    border-radius: 10px;
+}
+
+.home_container p{
+    margin-bottom:1.5em;
+    color: #411f2d;
+    font-size: 1.2em;
+}
+
+.home_container img{
+    width:300px;
+    margim:2em 0;
+
+}

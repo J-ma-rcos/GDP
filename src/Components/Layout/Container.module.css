@@ -1,0 +1,22 @@
+.container{
+    display:flex;
+    width:1200px;
+    justify-content: space-between;
+    margin: 0 auto;
+    flex-wrap:wrap;
+}
+
+.min-height{
+    min-height:75%;
+    //background-image: linear-gradient(to top left , #411f2d , #ffe29a);
+    width:100%;
+}
+
+.start{
+    justify-content: flex-start;
+}
+
+.column{
+    flex-direction: column;
+    justify-content: flex-start;
+}
