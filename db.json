@@ -1,5 +1,17 @@
 {
-  "projects": [],
+  "projects": [
+    {
+      "name": "contratar dev Front-End",
+      "budget": "10000",
+      "category": {
+        "id": "2",
+        "name": "desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 1
+    }
+  ],
   "categories": [
     {
       "id": 1,
