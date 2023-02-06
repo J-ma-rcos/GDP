@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/GDP/static/css/main.4674de28.css",
+    "main.js": "/GDP/static/js/main.a95d2f35.js",
+    "static/media/myself.jpg": "/GDP/static/media/myself.ce82c44897397cd1ddf5.jpg",
+    "static/media/piggy-bank-svgrepo-com.svg": "/GDP/static/media/piggy-bank-svgrepo-com.eb575d290f9a9882839dc11b0bb019f2.svg",
+    "static/media/Pulse-1s-200px.svg": "/GDP/static/media/Pulse-1s-200px.68e89178d7f56169dee7edb6e8b2cecf.svg",
+    "static/media/coin-svgrepo-com.svg": "/GDP/static/media/coin-svgrepo-com.ca2f7fabb4cc40ebacc120b132db8826.svg",
+    "index.html": "/GDP/index.html",
+    "main.4674de28.css.map": "/GDP/static/css/main.4674de28.css.map",
+    "main.a95d2f35.js.map": "/GDP/static/js/main.a95d2f35.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4674de28.css",
+    "static/js/main.a95d2f35.js"
+  ]
+}
